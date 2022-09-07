@@ -37,7 +37,6 @@ h2{
     text-align: center;
     padding: 10px;
 }
-
 .cta-screen{
     min-height: 60vh;
     width: fit-content;
@@ -61,3 +60,28 @@ h2{
     font-size: 1.5em;
     font-weight: bold;
 }
+.box-news{
+
+    padding-top: 10px;
+    text-align: center;
+}
+.image-size{
+    height: 300px;
+    width: 400px;
+} 
+.content-img{
+    height: 350px;
+    padding-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background: #A10028;
+    font-size: 0.8em;
+    font-weight: bold;
+    text-decoration: none;
+} 
+.spacer{
+    height: 20px;
+} 
+.spacer-{
+    width: 20px;
+} 
