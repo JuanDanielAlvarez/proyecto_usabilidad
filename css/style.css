@@ -58,6 +58,11 @@ h2 {
     object-fit: cover;
 }
 
+#cta-image2 {
+    max-width: 100%;
+    height: auto;
+}
+
 #cta-btn {
     font-size: 1.5em;
     font-weight: bold;
