@@ -82,6 +82,13 @@ h2{
 .spacer{
     height: 20px;
 } 
-.spacer-{
-    width: 20px;
-} 
+.form-contact{
+    padding: 50px;
+    
+}
+input,textarea {
+  width: 400px;
+  box-sizing: border-box;
+  border: 1px solid white;
+  background-color: lightgrey;
+}
